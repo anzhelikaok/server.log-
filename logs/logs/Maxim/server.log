@@ -1,0 +1,3967 @@
+2021-03-18 17:03:02,725 Running server NarupaServer on port 60937
+2021-03-18 17:03:02,740 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:03:02,780 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:03:02,780 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:03:02,780 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:03:02,794 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_4.pdb
+2021-03-18 17:03:02,796 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 9.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 5.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 7
+      values: 8
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 9
+      values: 1
+      values: 1
+      values: 1
+      values: 3
+      values: 9
+      values: 9
+      values: 8
+      values: 9
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "F"
+      values: "H"
+      values: "H"
+      values: "H"
+      values: "LI"
+      values: "F"
+      values: "F"
+      values: "O"
+      values: "F"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 0.6698
+      values: -0.7611
+      values: 0.0
+      values: 0.8028
+      values: -0.7611
+      values: 0.0
+      values: 1.7386
+      values: -0.7019
+      values: 0.0
+      values: 1.8716
+      values: -0.7019
+      values: 0.0
+      values: 1.7707001
+      values: -1.2018
+      values: 0.0
+      values: 1.9549
+      values: -1.2066001
+      values: 0.0
+      values: 0.6378
+      values: -1.2467
+      values: 0.0
+      values: 0.7611
+      values: -1.1698
+      values: 0.0
+      values: 0.633
+      values: -1.1137
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 1
+      values: 2
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 4
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 2
+      values: 3
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNK"
+      values: "UNK"
+      values: "UNK"
+      values: "UNK"
+    }
+  }
+}
+
+2021-03-18 17:08:41,527 Running server NarupaServer on port 55553
+2021-03-18 17:08:41,538 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:08:41,568 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:08:41,568 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:08:41,586 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_6.pdb
+2021-03-18 17:08:41,589 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 17.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 6.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 2
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 7
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 15
+      values: 16
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 8
+      values: 8
+      values: 7
+      values: 7
+      values: 8
+      values: 17
+      values: 8
+      values: 7
+      values: 9
+      values: 6
+      values: 7
+      values: 7
+      values: 7
+      values: 8
+      values: 8
+      values: 7
+      values: 1
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "O"
+      values: "O"
+      values: "N"
+      values: "N"
+      values: "O"
+      values: "CL"
+      values: "O"
+      values: "N"
+      values: "F"
+      values: "C"
+      values: "N"
+      values: "N"
+      values: "N"
+      values: "O"
+      values: "O"
+      values: "N"
+      values: "H"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 0.29130003
+      values: -0.4856
+      values: 0.0
+      values: 0.29130003
+      values: -0.5827
+      values: 0.0
+      values: 0.3885
+      values: -0.5827
+      values: 0.0
+      values: 0.0
+      values: -0.097100005
+      values: 0.0
+      values: 0.097100005
+      values: -0.097100005
+      values: 0.0
+      values: 0.4856
+      values: -0.097100005
+      values: 0.0
+      values: 0.3885
+      values: -0.097100005
+      values: 0.0
+      values: 0.4856
+      values: 0.0
+      values: 0.0
+      values: 0.5827
+      values: -0.29130003
+      values: 0.0
+      values: 0.6798
+      values: -0.29130003
+      values: 0.0
+      values: 0.7769
+      values: -0.29130003
+      values: 0.0
+      values: 0.7769
+      values: 0.0
+      values: 0.0
+      values: 0.9712
+      values: 0.0
+      values: 0.0
+      values: 1.1654
+      values: 0.0
+      values: 0.0
+      values: 0.6798
+      values: -0.7769
+      values: 0.0
+      values: 0.6798
+      values: -0.6798
+      values: 0.0
+      values: 0.874
+      values: -0.7769
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 4
+      values: 5
+      values: 5
+      values: 5
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:09:11,147 Starting app
+2021-03-18 17:09:11,152 Running server NarupaServer on port 55597
+2021-03-18 17:09:11,165 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:09:11,194 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:09:11,194 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:09:11,194 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:09:23,888 Running server NarupaServer on port 55600
+2021-03-18 17:09:23,903 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:09:23,930 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:09:23,930 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:09:23,930 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:09:23,943 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_6.pdb
+2021-03-18 17:09:23,946 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 17.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 6.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 2
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 7
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 15
+      values: 16
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 8
+      values: 8
+      values: 7
+      values: 7
+      values: 8
+      values: 17
+      values: 8
+      values: 7
+      values: 9
+      values: 6
+      values: 7
+      values: 7
+      values: 7
+      values: 8
+      values: 8
+      values: 7
+      values: 1
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "O"
+      values: "O"
+      values: "N"
+      values: "N"
+      values: "O"
+      values: "CL"
+      values: "O"
+      values: "N"
+      values: "F"
+      values: "C"
+      values: "N"
+      values: "N"
+      values: "N"
+      values: "O"
+      values: "O"
+      values: "N"
+      values: "H"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 0.29130003
+      values: -0.4856
+      values: 0.0
+      values: 0.29130003
+      values: -0.5827
+      values: 0.0
+      values: 0.3885
+      values: -0.5827
+      values: 0.0
+      values: 0.0
+      values: -0.097100005
+      values: 0.0
+      values: 0.097100005
+      values: -0.097100005
+      values: 0.0
+      values: 0.4856
+      values: -0.097100005
+      values: 0.0
+      values: 0.3885
+      values: -0.097100005
+      values: 0.0
+      values: 0.4856
+      values: 0.0
+      values: 0.0
+      values: 0.5827
+      values: -0.29130003
+      values: 0.0
+      values: 0.6798
+      values: -0.29130003
+      values: 0.0
+      values: 0.7769
+      values: -0.29130003
+      values: 0.0
+      values: 0.7769
+      values: 0.0
+      values: 0.0
+      values: 0.9712
+      values: 0.0
+      values: 0.0
+      values: 1.1654
+      values: 0.0
+      values: 0.0
+      values: 0.6798
+      values: -0.7769
+      values: 0.0
+      values: 0.6798
+      values: -0.6798
+      values: 0.0
+      values: 0.874
+      values: -0.7769
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 4
+      values: 5
+      values: 5
+      values: 5
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:12:45,284 Running server NarupaServer on port 55791
+2021-03-18 17:12:45,284 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:12:45,326 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:12:45,326 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:12:45,326 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:12:45,346 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_8.pdb
+2021-03-18 17:12:45,350 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 29.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 12.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 2
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 3
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 8
+      values: 10
+      values: 11
+      values: 12
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 15
+      values: 16
+      values: 17
+      values: 18
+      values: 17
+      values: 19
+      values: 17
+      values: 20
+      values: 21
+      values: 22
+      values: 21
+      values: 23
+      values: 24
+      values: 25
+      values: 26
+      values: 27
+      values: 26
+      values: 28
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 8
+      values: 8
+      values: 7
+      values: 8
+      values: 11
+      values: 11
+      values: 11
+      values: 17
+      values: 16
+      values: 11
+      values: 11
+      values: 8
+      values: 16
+      values: 8
+      values: 1
+      values: 16
+      values: 1
+      values: 16
+      values: 8
+      values: 8
+      values: 8
+      values: 16
+      values: 11
+      values: 11
+      values: 26
+      values: 16
+      values: 16
+      values: 29
+      values: 29
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "O"
+      values: "O"
+      values: "N"
+      values: "O"
+      values: "NA"
+      values: "NA"
+      values: "NA"
+      values: "CL"
+      values: "S"
+      values: "NA"
+      values: "NA"
+      values: "O"
+      values: "S"
+      values: "O"
+      values: "H"
+      values: "S"
+      values: "H"
+      values: "S"
+      values: "O"
+      values: "O"
+      values: "O"
+      values: "S"
+      values: "NA"
+      values: "NA"
+      values: "FE"
+      values: "S"
+      values: "S"
+      values: "CU"
+      values: "CU"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 1.6620001
+      values: -0.9651
+      values: -0.0018999999
+      values: 1.6497
+      values: -1.0736
+      values: -0.0018999999
+      values: 1.7679001
+      values: -1.0643
+      values: -0.0018999999
+      values: 2.6072001
+      values: -1.3657
+      values: -0.0018999999
+      values: 2.6515
+      values: -1.2322
+      values: -0.0018999999
+      values: 2.4664
+      values: -1.2404001
+      values: -0.0018999999
+      values: 2.0896
+      values: -0.4341
+      values: -0.0018999999
+      values: 2.2362
+      values: -0.5465
+      values: -0.0018999999
+      values: 1.1818
+      values: -1.1264
+      values: 0.0099
+      values: 1.1767
+      values: -1.2438
+      values: 0.0625
+      values: 1.3173001
+      values: -1.1224
+      values: -0.0625
+      values: 1.4203
+      values: -0.44730002
+      values: -0.0018999999
+      values: 1.4649
+      values: -0.34080002
+      values: -0.0018999999
+      values: 1.5811
+      values: -0.4053
+      values: -0.0018999999
+      values: 2.638
+      values: -0.7835
+      values: -0.0018999999
+      values: 2.7842
+      values: -0.75780004
+      values: -0.0018999999
+      values: 2.839
+      values: -0.90150005
+      values: -0.0018999999
+      values: 2.0642002
+      values: -1.5319
+      values: -0.0018999999
+      values: 2.2105
+      values: -1.4647001
+      values: -0.0018999999
+      values: 1.8523
+      values: -1.4266
+      values: -0.0018999999
+      values: 2.0667
+      values: -1.6885
+      values: -0.0018999999
+      values: 1.9066
+      values: -0.7616
+      values: -0.0018999999
+      values: 1.8457001
+      values: -0.6431
+      values: -0.0018999999
+      values: 2.0362
+      values: -0.7315
+      values: -0.0018999999
+      values: 2.4765
+      values: -1.6876
+      values: -0.0018999999
+      values: 2.6916
+      values: -1.7166001
+      values: -0.0018999999
+      values: 1.4101
+      values: -2.0959
+      values: 0.0
+      values: 1.5591
+      values: -1.8989
+      values: 0.0
+      values: 1.2226
+      values: -1.8716
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 8
+      values: 8
+      values: 8
+      values: 9
+      values: 9
+      values: 9
+      values: 10
+      values: 10
+      values: 11
+      values: 11
+      values: 11
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 1
+      values: 6
+      values: 2
+      values: 7
+      values: 8
+      values: 9
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:15:40,582 Starting app
+2021-03-18 17:15:40,588 Running server NarupaServer on port 55869
+2021-03-18 17:15:40,602 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:15:40,655 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:15:40,656 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:15:40,656 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:15:54,817 Running server NarupaServer on port 55873
+2021-03-18 17:15:54,830 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:15:54,883 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:15:54,883 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:15:54,884 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:15:54,913 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_10.pdb
+2021-03-18 17:15:54,917 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 26.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 14.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 0
+      values: 2
+      values: 3
+      values: 4
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 16
+      values: 17
+      values: 18
+      values: 19
+      values: 18
+      values: 20
+      values: 21
+      values: 23
+      values: 22
+      values: 23
+      values: 24
+      values: 25
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 16
+      values: 29
+      values: 29
+      values: 9
+      values: 8
+      values: 9
+      values: 35
+      values: 35
+      values: 1
+      values: 35
+      values: 1
+      values: 6
+      values: 1
+      values: 6
+      values: 8
+      values: 19
+      values: 8
+      values: 1
+      values: 8
+      values: 1
+      values: 1
+      values: 17
+      values: 17
+      values: 29
+      values: 9
+      values: 3
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "S"
+      values: "CU"
+      values: "CU"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "BR"
+      values: "BR"
+      values: "H"
+      values: "BR"
+      values: "H"
+      values: "CA"
+      values: "H"
+      values: "CA"
+      values: "O"
+      values: "K"
+      values: "O"
+      values: "H"
+      values: "O"
+      values: "H"
+      values: "H"
+      values: "CL"
+      values: "CL"
+      values: "CU"
+      values: "F"
+      values: "LI"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 1.4101
+      values: -2.0959
+      values: 0.0
+      values: 1.5591
+      values: -1.8989
+      values: 0.0
+      values: 1.2226
+      values: -1.8716
+      values: 0.0
+      values: 2.1601
+      values: -1.7466
+      values: 0.0
+      values: 2.2802
+      values: -1.9117001
+      values: 0.0
+      values: 2.4004
+      values: -1.7787001
+      values: 0.0
+      values: 2.9212
+      values: -1.7947
+      values: 0.0
+      values: 3.0542
+      values: -1.7947
+      values: 0.0
+      values: 3.1968
+      values: -0.94540006
+      values: 0.0
+      values: 2.9965
+      values: -0.8861
+      values: 0.0
+      values: 2.5558002
+      values: -2.4405
+      values: 0.0
+      values: 2.4517
+      values: -2.2240999
+      values: 0.0
+      values: 2.785
+      values: -2.1552
+      values: 0.0
+      values: 0.94540006
+      values: -1.5031
+      values: 0.0
+      values: 1.2627
+      values: -1.3701
+      values: 0.0
+      values: 2.1472
+      values: -0.3333
+      values: 0.0
+      values: 2.2514
+      values: -0.5608
+      values: 0.0
+      values: 2.4164
+      values: -0.3413
+      values: 0.0
+      values: 0.8252
+      values: -0.75310004
+      values: 0.0
+      values: 0.6298
+      values: -0.5176
+      values: 0.0
+      values: 0.5256
+      values: -0.7019
+      values: 0.0
+      values: 2.128
+      values: -1.322
+      values: 0.0
+      values: 2.0511
+      values: -1.0944
+      values: 0.0
+      values: 1.8027
+      values: -1.3348
+      values: 0.0
+      values: 0.7419
+      values: -2.1952999
+      values: 0.0
+      values: 0.48070002
+      values: -2.0639
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 8
+      values: 9
+      values: 9
+      values: 9
+      values: 10
+      values: 11
+      values: 11
+      values: 12
+      values: 12
+      values: 12
+      values: 13
+      values: 13
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 1
+      values: 5
+      values: 2
+      values: 5
+      values: 6
+      values: 7
+      values: 3
+      values: 0
+      values: 8
+      values: 9
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "HOH"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:17:01,946 Closing app
+2021-03-18 17:17:17,443 Starting app
+2021-03-18 17:17:17,448 Running server NarupaServer on port 55894
+2021-03-18 17:17:17,449 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:17:17,493 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:17:17,493 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:17:17,493 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:17:31,706 Running server NarupaServer on port 55898
+2021-03-18 17:17:31,721 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:17:31,761 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:17:31,762 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:17:31,762 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:17:31,790 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_12.pdb
+2021-03-18 17:17:31,794 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 32.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 14.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 0
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 11
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 17
+      values: 17
+      values: 18
+      values: 19
+      values: 21
+      values: 20
+      values: 21
+      values: 22
+      values: 23
+      values: 23
+      values: 24
+      values: 25
+      values: 26
+      values: 25
+      values: 27
+      values: 28
+      values: 29
+      values: 30
+      values: 31
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 8
+      values: 11
+      values: 11
+      values: 11
+      values: 17
+      values: 8
+      values: 16
+      values: 8
+      values: 1
+      values: 16
+      values: 1
+      values: 16
+      values: 29
+      values: 29
+      values: 9
+      values: 9
+      values: 8
+      values: 14
+      values: 8
+      values: 16
+      values: 16
+      values: 6
+      values: 9
+      values: 8
+      values: 9
+      values: 8
+      values: 19
+      values: 19
+      values: 35
+      values: 35
+      values: 17
+      values: 17
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "O"
+      values: "NA"
+      values: "NA"
+      values: "NA"
+      values: "CL"
+      values: "O"
+      values: "S"
+      values: "O"
+      values: "H"
+      values: "S"
+      values: "H"
+      values: "S"
+      values: "CU"
+      values: "CU"
+      values: "F"
+      values: "F"
+      values: "O"
+      values: "SI"
+      values: "O"
+      values: "S"
+      values: "S"
+      values: "C"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "O"
+      values: "K"
+      values: "K"
+      values: "BR"
+      values: "BR"
+      values: "CL"
+      values: "CL"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 2.6072001
+      values: -1.3657
+      values: -0.0018999999
+      values: 2.6515
+      values: -1.2322
+      values: -0.0018999999
+      values: 2.4664
+      values: -1.2404001
+      values: -0.0018999999
+      values: 2.0896
+      values: -0.4341
+      values: -0.0018999999
+      values: 2.2362
+      values: -0.5465
+      values: -0.0018999999
+      values: 1.4203
+      values: -0.44730002
+      values: -0.0018999999
+      values: 1.4649
+      values: -0.34080002
+      values: -0.0018999999
+      values: 1.5811
+      values: -0.4053
+      values: -0.0018999999
+      values: 2.638
+      values: -0.7835
+      values: -0.0018999999
+      values: 2.7842
+      values: -0.75780004
+      values: -0.0018999999
+      values: 2.839
+      values: -0.90150005
+      values: -0.0018999999
+      values: 1.4101
+      values: -2.0959
+      values: 0.0
+      values: 1.5591
+      values: -1.8989
+      values: 0.0
+      values: 1.2226
+      values: -1.8716
+      values: 0.0
+      values: 0.6169
+      values: -0.7291
+      values: 0.0
+      values: 0.4935
+      values: -0.72110003
+      values: 0.0
+      values: 0.7932
+      values: -1.4710001
+      values: 0.0
+      values: 0.5528
+      values: -1.2867
+      values: 0.0
+      values: 0.78520006
+      values: -1.0864
+      values: 0.0
+      values: 1.5191001
+      values: -1.2579001
+      values: 0.0
+      values: 1.1265
+      values: -1.1778
+      values: 0.0
+      values: 1.2867
+      values: -1.1137
+      values: 0.0
+      values: 2.1601
+      values: -1.7466
+      values: 0.0
+      values: 2.2802
+      values: -1.9117001
+      values: 0.0
+      values: 2.4004
+      values: -1.7787001
+      values: 0.0
+      values: 1.6184
+      values: -0.94540006
+      values: 0.0
+      values: 1.4822
+      values: -0.7419
+      values: 0.0
+      values: 1.8316001
+      values: -0.7611
+      values: 0.0
+      values: 2.9212
+      values: -1.7947
+      values: 0.0
+      values: 3.0542
+      values: -1.7947
+      values: 0.0
+      values: 1.9549
+      values: -1.3460001
+      values: 0.0
+      values: 2.0879
+      values: -1.3460001
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 6
+      values: 6
+      values: 7
+      values: 7
+      values: 8
+      values: 8
+      values: 8
+      values: 9
+      values: 9
+      values: 9
+      values: 10
+      values: 10
+      values: 10
+      values: 11
+      values: 11
+      values: 11
+      values: 12
+      values: 12
+      values: 13
+      values: 13
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 1
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:20:10,576 Running server NarupaServer on port 55973
+2021-03-18 17:20:10,590 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:20:10,634 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:20:10,634 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:20:10,634 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:20:10,653 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_14.pdb
+2021-03-18 17:20:10,658 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 36.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 18.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 0
+      values: 2
+      values: 3
+      values: 4
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 6
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 17
+      values: 18
+      values: 17
+      values: 19
+      values: 20
+      values: 21
+      values: 21
+      values: 22
+      values: 23
+      values: 24
+      values: 24
+      values: 25
+      values: 26
+      values: 27
+      values: 26
+      values: 28
+      values: 29
+      values: 30
+      values: 31
+      values: 32
+      values: 32
+      values: 33
+      values: 34
+      values: 35
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 16
+      values: 29
+      values: 29
+      values: 9
+      values: 8
+      values: 9
+      values: 8
+      values: 19
+      values: 19
+      values: 35
+      values: 35
+      values: 17
+      values: 17
+      values: 17
+      values: 11
+      values: 1
+      values: 35
+      values: 6
+      values: 17
+      values: 17
+      values: 1
+      values: 6
+      values: 1
+      values: 9
+      values: 6
+      values: 9
+      values: 16
+      values: 1
+      values: 1
+      values: 6
+      values: 8
+      values: 19
+      values: 8
+      values: 1
+      values: 11
+      values: 17
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "S"
+      values: "CU"
+      values: "CU"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "O"
+      values: "K"
+      values: "K"
+      values: "BR"
+      values: "BR"
+      values: "CL"
+      values: "CL"
+      values: "CL"
+      values: "NA"
+      values: "H"
+      values: "BR"
+      values: "CA"
+      values: "CL"
+      values: "CL"
+      values: "H"
+      values: "CA"
+      values: "H"
+      values: "F"
+      values: "CA"
+      values: "F"
+      values: "S"
+      values: "H"
+      values: "H"
+      values: "CA"
+      values: "O"
+      values: "K"
+      values: "O"
+      values: "H"
+      values: "NA"
+      values: "CL"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 1.4101
+      values: -2.0959
+      values: 0.0
+      values: 1.5591
+      values: -1.8989
+      values: 0.0
+      values: 1.2226
+      values: -1.8716
+      values: 0.0
+      values: 2.1601
+      values: -1.7466
+      values: 0.0
+      values: 2.2802
+      values: -1.9117001
+      values: 0.0
+      values: 2.4004
+      values: -1.7787001
+      values: 0.0
+      values: 1.6184
+      values: -0.94540006
+      values: 0.0
+      values: 1.4822
+      values: -0.7419
+      values: 0.0
+      values: 1.8316001
+      values: -0.7611
+      values: 0.0
+      values: 2.9212
+      values: -1.7947
+      values: 0.0
+      values: 3.0542
+      values: -1.7947
+      values: 0.0
+      values: 1.9549
+      values: -1.3460001
+      values: 0.0
+      values: 2.0879
+      values: -1.3460001
+      values: 0.0
+      values: 2.5046
+      values: -1.0175
+      values: 0.0
+      values: 2.3043
+      values: -0.8733
+      values: 0.0
+      values: 3.1968
+      values: -0.94540006
+      values: 0.0
+      values: 2.9965
+      values: -0.8861
+      values: 0.0
+      values: 0.5576
+      values: -1.2579001
+      values: 0.0
+      values: 0.689
+      values: -0.9534001
+      values: 0.0
+      values: 0.8332
+      values: -1.2098
+      values: 0.0
+      values: 2.5558002
+      values: -2.4405
+      values: 0.0
+      values: 2.4517
+      values: -2.2240999
+      values: 0.0
+      values: 2.785
+      values: -2.1552
+      values: 0.0
+      values: 0.665
+      values: -2.4677
+      values: 0.0
+      values: 0.4855
+      values: -2.2882001
+      values: 0.0
+      values: 0.5368
+      values: -1.9598
+      values: 0.0
+      values: 1.3781
+      values: -2.7529
+      values: 0.0
+      values: 1.1217
+      values: -2.5847
+      values: 0.0
+      values: 1.5672001
+      values: -2.5799
+      values: 0.0
+      values: 0.94540006
+      values: -1.5031
+      values: 0.0
+      values: 1.2627
+      values: -1.3701
+      values: 0.0
+      values: 2.1472
+      values: -0.3333
+      values: 0.0
+      values: 2.2514
+      values: -0.5608
+      values: 0.0
+      values: 2.4164
+      values: -0.3413
+      values: 0.0
+      values: 0.47750002
+      values: -0.633
+      values: 0.0
+      values: 0.681
+      values: -0.4887
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 5
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 8
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 12
+      values: 12
+      values: 13
+      values: 14
+      values: 14
+      values: 15
+      values: 15
+      values: 16
+      values: 16
+      values: 16
+      values: 17
+      values: 17
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 1
+      values: 8
+      values: 9
+      values: 2
+      values: 9
+      values: 10
+      values: 3
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:21:48,576 Closing app
+2021-03-18 17:21:56,031 Starting app
+2021-03-18 17:21:56,037 Running server NarupaServer on port 56023
+2021-03-18 17:21:56,044 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:21:56,087 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:21:56,087 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:21:56,087 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:23:02,489 Running server NarupaServer on port 56071
+2021-03-18 17:23:02,504 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:23:02,574 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:23:02,574 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:23:02,575 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:23:02,596 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_14.pdb
+2021-03-18 17:23:02,602 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 36.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 18.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 0
+      values: 2
+      values: 3
+      values: 4
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 6
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 17
+      values: 18
+      values: 17
+      values: 19
+      values: 20
+      values: 21
+      values: 21
+      values: 22
+      values: 23
+      values: 24
+      values: 24
+      values: 25
+      values: 26
+      values: 27
+      values: 26
+      values: 28
+      values: 29
+      values: 30
+      values: 31
+      values: 32
+      values: 32
+      values: 33
+      values: 34
+      values: 35
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 16
+      values: 29
+      values: 29
+      values: 9
+      values: 8
+      values: 9
+      values: 8
+      values: 19
+      values: 19
+      values: 35
+      values: 35
+      values: 17
+      values: 17
+      values: 17
+      values: 11
+      values: 1
+      values: 35
+      values: 6
+      values: 17
+      values: 17
+      values: 1
+      values: 6
+      values: 1
+      values: 9
+      values: 6
+      values: 9
+      values: 16
+      values: 1
+      values: 1
+      values: 6
+      values: 8
+      values: 19
+      values: 8
+      values: 1
+      values: 11
+      values: 17
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "S"
+      values: "CU"
+      values: "CU"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "O"
+      values: "K"
+      values: "K"
+      values: "BR"
+      values: "BR"
+      values: "CL"
+      values: "CL"
+      values: "CL"
+      values: "NA"
+      values: "H"
+      values: "BR"
+      values: "CA"
+      values: "CL"
+      values: "CL"
+      values: "H"
+      values: "CA"
+      values: "H"
+      values: "F"
+      values: "CA"
+      values: "F"
+      values: "S"
+      values: "H"
+      values: "H"
+      values: "CA"
+      values: "O"
+      values: "K"
+      values: "O"
+      values: "H"
+      values: "NA"
+      values: "CL"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 1.4101
+      values: -2.0959
+      values: 0.0
+      values: 1.5591
+      values: -1.8989
+      values: 0.0
+      values: 1.2226
+      values: -1.8716
+      values: 0.0
+      values: 2.1601
+      values: -1.7466
+      values: 0.0
+      values: 2.2802
+      values: -1.9117001
+      values: 0.0
+      values: 2.4004
+      values: -1.7787001
+      values: 0.0
+      values: 1.6184
+      values: -0.94540006
+      values: 0.0
+      values: 1.4822
+      values: -0.7419
+      values: 0.0
+      values: 1.8316001
+      values: -0.7611
+      values: 0.0
+      values: 2.9212
+      values: -1.7947
+      values: 0.0
+      values: 3.0542
+      values: -1.7947
+      values: 0.0
+      values: 1.9549
+      values: -1.3460001
+      values: 0.0
+      values: 2.0879
+      values: -1.3460001
+      values: 0.0
+      values: 2.5046
+      values: -1.0175
+      values: 0.0
+      values: 2.3043
+      values: -0.8733
+      values: 0.0
+      values: 3.1968
+      values: -0.94540006
+      values: 0.0
+      values: 2.9965
+      values: -0.8861
+      values: 0.0
+      values: 0.5576
+      values: -1.2579001
+      values: 0.0
+      values: 0.689
+      values: -0.9534001
+      values: 0.0
+      values: 0.8332
+      values: -1.2098
+      values: 0.0
+      values: 2.5558002
+      values: -2.4405
+      values: 0.0
+      values: 2.4517
+      values: -2.2240999
+      values: 0.0
+      values: 2.785
+      values: -2.1552
+      values: 0.0
+      values: 0.665
+      values: -2.4677
+      values: 0.0
+      values: 0.4855
+      values: -2.2882001
+      values: 0.0
+      values: 0.5368
+      values: -1.9598
+      values: 0.0
+      values: 1.3781
+      values: -2.7529
+      values: 0.0
+      values: 1.1217
+      values: -2.5847
+      values: 0.0
+      values: 1.5672001
+      values: -2.5799
+      values: 0.0
+      values: 0.94540006
+      values: -1.5031
+      values: 0.0
+      values: 1.2627
+      values: -1.3701
+      values: 0.0
+      values: 2.1472
+      values: -0.3333
+      values: 0.0
+      values: 2.2514
+      values: -0.5608
+      values: 0.0
+      values: 2.4164
+      values: -0.3413
+      values: 0.0
+      values: 0.47750002
+      values: -0.633
+      values: 0.0
+      values: 0.681
+      values: -0.4887
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 5
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 8
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 12
+      values: 12
+      values: 13
+      values: 14
+      values: 14
+      values: 15
+      values: 15
+      values: 16
+      values: 16
+      values: 16
+      values: 17
+      values: 17
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 1
+      values: 8
+      values: 9
+      values: 2
+      values: 9
+      values: 10
+      values: 3
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:24:16,729 Starting app
+2021-03-18 17:24:16,735 Running server NarupaServer on port 56091
+2021-03-18 17:24:16,745 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:24:16,790 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:24:16,790 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:24:16,790 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:24:25,937 Running server NarupaServer on port 56095
+2021-03-18 17:24:25,952 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:24:25,992 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:24:25,992 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:24:25,992 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:24:26,017 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_16.pdb
+2021-03-18 17:24:26,021 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 40.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 21.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 0
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 13
+      values: 15
+      values: 16
+      values: 18
+      values: 17
+      values: 18
+      values: 19
+      values: 20
+      values: 21
+      values: 22
+      values: 23
+      values: 24
+      values: 25
+      values: 26
+      values: 27
+      values: 28
+      values: 29
+      values: 30
+      values: 29
+      values: 31
+      values: 30
+      values: 31
+      values: 32
+      values: 33
+      values: 33
+      values: 34
+      values: 35
+      values: 36
+      values: 37
+      values: 38
+      values: 38
+      values: 39
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 16
+      values: 29
+      values: 29
+      values: 35
+      values: 35
+      values: 1
+      values: 35
+      values: 1
+      values: 6
+      values: 1
+      values: 19
+      values: 8
+      values: 1
+      values: 8
+      values: 1
+      values: 1
+      values: 17
+      values: 17
+      values: 29
+      values: 9
+      values: 3
+      values: 17
+      values: 17
+      values: 1
+      values: 17
+      values: 12
+      values: 8
+      values: 12
+      values: 16
+      values: 8
+      values: 8
+      values: 8
+      values: 8
+      values: 14
+      values: 8
+      values: 8
+      values: 6
+      values: 9
+      values: 8
+      values: 9
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "S"
+      values: "CU"
+      values: "CU"
+      values: "BR"
+      values: "BR"
+      values: "H"
+      values: "BR"
+      values: "H"
+      values: "CA"
+      values: "H"
+      values: "K"
+      values: "O"
+      values: "H"
+      values: "O"
+      values: "H"
+      values: "H"
+      values: "CL"
+      values: "CL"
+      values: "CU"
+      values: "F"
+      values: "LI"
+      values: "CL"
+      values: "CL"
+      values: "H"
+      values: "CL"
+      values: "MG"
+      values: "O"
+      values: "MG"
+      values: "S"
+      values: "O"
+      values: "O"
+      values: "O"
+      values: "O"
+      values: "SI"
+      values: "O"
+      values: "O"
+      values: "CA"
+      values: "F"
+      values: "O"
+      values: "F"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 1.4101
+      values: -2.0959
+      values: 0.0
+      values: 1.5591
+      values: -1.8989
+      values: 0.0
+      values: 1.2226
+      values: -1.8716
+      values: 0.0
+      values: 2.9212
+      values: -1.7947
+      values: 0.0
+      values: 3.0542
+      values: -1.7947
+      values: 0.0
+      values: 3.1968
+      values: -0.94540006
+      values: 0.0
+      values: 2.9965
+      values: -0.8861
+      values: 0.0
+      values: 2.5558002
+      values: -2.4405
+      values: 0.0
+      values: 2.4517
+      values: -2.2240999
+      values: 0.0
+      values: 2.785
+      values: -2.1552
+      values: 0.0
+      values: 2.1472
+      values: -0.3333
+      values: 0.0
+      values: 2.2514
+      values: -0.5608
+      values: 0.0
+      values: 2.4164
+      values: -0.3413
+      values: 0.0
+      values: 0.8252
+      values: -0.75310004
+      values: 0.0
+      values: 0.6298
+      values: -0.5176
+      values: 0.0
+      values: 0.5256
+      values: -0.7019
+      values: 0.0
+      values: 2.128
+      values: -1.322
+      values: 0.0
+      values: 2.0511
+      values: -1.0944
+      values: 0.0
+      values: 1.8027
+      values: -1.3348
+      values: 0.0
+      values: 0.7419
+      values: -2.1952999
+      values: 0.0
+      values: 0.48070002
+      values: -2.0639
+      values: 0.0
+      values: 1.2419
+      values: -0.8653
+      values: 0.0
+      values: 1.3749
+      values: -0.8653
+      values: 0.0
+      values: 1.314
+      values: -2.4805
+      values: 0.0
+      values: 0.92620003
+      values: -2.5365999
+      values: 0.0
+      values: 1.7514
+      values: -2.66
+      values: 0.0
+      values: 2.1392
+      values: -2.6360002
+      values: 0.0
+      values: 2.7770002
+      values: -1.2979001
+      values: 0.0
+      values: 3.1968
+      values: -1.2547001
+      values: 0.0
+      values: 0.44070002
+      values: -1.4422001
+      values: 0.0
+      values: 0.3445
+      values: -1.1105
+      values: 0.0
+      values: 0.6538
+      values: -1.1025
+      values: 0.0
+      values: 3.1087
+      values: -2.9853
+      values: 0.0
+      values: 2.7610002
+      values: -2.801
+      values: 0.0
+      values: 3.1615999
+      values: -2.5365999
+      values: 0.0
+      values: 1.0656
+      values: -3.0606
+      values: 0.0
+      values: 0.47750002
+      values: -3.1808002
+      values: 0.0
+      values: 2.0959
+      values: -3.6662998
+      values: 0.0
+      values: 1.9469
+      values: -3.4259999
+      values: 0.0
+      values: 2.2834
+      values: -3.1968
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 7
+      values: 7
+      values: 8
+      values: 9
+      values: 9
+      values: 10
+      values: 10
+      values: 10
+      values: 11
+      values: 11
+      values: 12
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 15
+      values: 16
+      values: 16
+      values: 17
+      values: 17
+      values: 17
+      values: 18
+      values: 18
+      values: 18
+      values: 19
+      values: 19
+      values: 20
+      values: 20
+      values: 20
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 1
+      values: 4
+      values: 2
+      values: 4
+      values: 5
+      values: 3
+      values: 0
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 4
+      values: 10
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "HOH"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:26:22,715 Closing app
+2021-03-18 17:26:28,658 Starting app
+2021-03-18 17:26:28,663 Running server NarupaServer on port 56152
+2021-03-18 17:26:28,668 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:26:28,711 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:26:28,711 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:26:28,711 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:26:37,839 Running server NarupaServer on port 56155
+2021-03-18 17:26:37,852 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:26:37,892 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:26:37,892 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:26:37,893 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:26:37,919 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_18.pdb
+2021-03-18 17:26:37,925 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 48.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 21.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 10
+      values: 10
+      values: 11
+      values: 12
+      values: 13
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 16
+      values: 17
+      values: 18
+      values: 19
+      values: 19
+      values: 20
+      values: 21
+      values: 22
+      values: 23
+      values: 24
+      values: 24
+      values: 25
+      values: 26
+      values: 27
+      values: 28
+      values: 29
+      values: 30
+      values: 31
+      values: 30
+      values: 32
+      values: 31
+      values: 32
+      values: 33
+      values: 34
+      values: 33
+      values: 35
+      values: 36
+      values: 37
+      values: 37
+      values: 38
+      values: 39
+      values: 40
+      values: 41
+      values: 42
+      values: 41
+      values: 43
+      values: 44
+      values: 45
+      values: 46
+      values: 47
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 9
+      values: 3
+      values: 12
+      values: 16
+      values: 8
+      values: 14
+      values: 8
+      values: 8
+      values: 6
+      values: 9
+      values: 8
+      values: 9
+      values: 9
+      values: 8
+      values: 9
+      values: 8
+      values: 16
+      values: 8
+      values: 17
+      values: 5
+      values: 17
+      values: 11
+      values: 53
+      values: 11
+      values: 16
+      values: 11
+      values: 8
+      values: 8
+      values: 17
+      values: 17
+      values: 8
+      values: 8
+      values: 8
+      values: 29
+      values: 53
+      values: 53
+      values: 17
+      values: 12
+      values: 17
+      values: 1
+      values: 35
+      values: 8
+      values: 11
+      values: 11
+      values: 12
+      values: 16
+      values: 1
+      values: 9
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "F"
+      values: "LI"
+      values: "MG"
+      values: "S"
+      values: "O"
+      values: "SI"
+      values: "O"
+      values: "O"
+      values: "CA"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "O"
+      values: "S"
+      values: "O"
+      values: "CL"
+      values: "BA"
+      values: "CL"
+      values: "NA"
+      values: "I"
+      values: "NA"
+      values: "S"
+      values: "NA"
+      values: "O"
+      values: "O"
+      values: "CL"
+      values: "CL"
+      values: "O"
+      values: "O"
+      values: "O"
+      values: "CU"
+      values: "I"
+      values: "I"
+      values: "CL"
+      values: "MG"
+      values: "CL"
+      values: "H"
+      values: "BR"
+      values: "O"
+      values: "NA"
+      values: "NA"
+      values: "MG"
+      values: "S"
+      values: "H"
+      values: "F"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 0.7419
+      values: -2.1952999
+      values: 0.0
+      values: 0.48070002
+      values: -2.0639
+      values: 0.0
+      values: 2.7770002
+      values: -1.2979001
+      values: 0.0
+      values: 3.1968
+      values: -1.2547001
+      values: 0.0
+      values: 3.1087
+      values: -2.9853
+      values: 0.0
+      values: 2.7610002
+      values: -2.801
+      values: 0.0
+      values: 3.1615999
+      values: -2.5365999
+      values: 0.0
+      values: 1.0656
+      values: -3.0606
+      values: 0.0
+      values: 0.47750002
+      values: -3.1808002
+      values: 0.0
+      values: 2.0959
+      values: -3.6662998
+      values: 0.0
+      values: 1.9469
+      values: -3.4259999
+      values: 0.0
+      values: 2.2834
+      values: -3.1968
+      values: 0.0
+      values: 1.4502
+      values: -1.6265
+      values: 0.0
+      values: 1.7627001
+      values: -1.447
+      values: 0.0
+      values: 1.3781
+      values: -1.4342
+      values: 0.0
+      values: 2.668
+      values: -0.87810004
+      values: 0.0
+      values: 2.3043
+      values: -0.6778
+      values: 0.0
+      values: 2.8202
+      values: -0.46469998
+      values: 0.0
+      values: 2.9292
+      values: -5.0796003
+      values: 0.0
+      values: 2.5077999
+      values: -4.9563003
+      values: 0.0
+      values: 2.8411
+      values: -4.5749
+      values: 0.0
+      values: 0.6778
+      values: -4.8761
+      values: 0.0
+      values: 0.96140003
+      values: -4.8040004
+      values: 0.0
+      values: 3.5381
+      values: -4.107
+      values: 0.0
+      values: 3.7256
+      values: -3.7096002
+      values: 0.0
+      values: 3.2369
+      values: -3.8586
+      values: 0.0
+      values: 3.6022
+      values: -0.3445
+      values: 0.0
+      values: 3.7737
+      values: -0.2404
+      values: 0.0
+      values: 5.5892
+      values: -1.4229001
+      values: 0.0
+      values: 5.7222
+      values: -1.4229001
+      values: 0.0
+      values: 5.0075
+      values: -2.2482002
+      values: 0.0
+      values: 4.4835
+      values: -1.9277
+      values: 0.0
+      values: 4.4707003
+      values: -2.4597
+      values: 0.0
+      values: 4.687
+      values: -0.7451
+      values: 0.0
+      values: 4.6951003
+      values: -1.0015
+      values: 0.0
+      values: 5.1245
+      values: -0.4375
+      values: 0.0
+      values: 6.4064
+      values: -1.9598
+      values: 0.0
+      values: 6.0411
+      values: -2.2001
+      values: 0.0
+      values: 6.3375
+      values: -2.3636
+      values: 0.0
+      values: 5.328
+      values: -3.2737
+      values: 0.0
+      values: 4.9402003
+      values: -3.3651001
+      values: 0.0
+      values: 5.7094
+      values: -4.6518
+      values: 0.0
+      values: 5.4931
+      values: -4.2993
+      values: 0.0
+      values: 5.2287
+      values: -4.5396
+      values: 0.0
+      values: 6.799
+      values: -3.2978
+      values: 0.0
+      values: 6.8791003
+      values: -3.6936002
+      values: 0.0
+      values: 0.8252
+      values: -0.59770006
+      values: 0.0
+      values: 0.5128
+      values: -0.5897
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 4
+      values: 5
+      values: 5
+      values: 5
+      values: 6
+      values: 6
+      values: 6
+      values: 7
+      values: 7
+      values: 7
+      values: 8
+      values: 8
+      values: 9
+      values: 9
+      values: 9
+      values: 10
+      values: 10
+      values: 11
+      values: 11
+      values: 12
+      values: 12
+      values: 12
+      values: 13
+      values: 13
+      values: 13
+      values: 14
+      values: 14
+      values: 14
+      values: 15
+      values: 16
+      values: 17
+      values: 17
+      values: 17
+      values: 18
+      values: 18
+      values: 19
+      values: 20
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 1
+      values: 17
+      values: 18
+      values: 19
+      values: 2
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
+
+2021-03-18 17:29:21,021 Closing app
+2021-03-18 17:29:27,630 Starting app
+2021-03-18 17:29:27,635 Running server NarupaServer on port 56212
+2021-03-18 17:29:27,645 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:29:27,688 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:29:27,688 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:29:27,688 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:29:37,855 Running server NarupaServer on port 56214
+2021-03-18 17:29:37,869 Extremely Simple Discovery Server (ESSD) is running, will broadcast services to port 54545
+2021-03-18 17:29:37,910 ESSD: Able to broadcast on the following IPV4 addresses:
+2021-03-18 17:29:37,910 ESSD:   - {'addr': '10.135.34.140', 'netmask': '255.255.255.0', 'broadcast': '10.135.34.255'}
+2021-03-18 17:29:37,910 ESSD:   - {'addr': '127.0.0.1', 'netmask': '255.0.0.0', 'broadcast': '127.255.255.255'}
+2021-03-18 17:29:37,935 Draw file: C:/Users/4/PycharmProjects/молекулы в мол/молекулы в мол/1_20.pdb
+2021-03-18 17:29:37,941 Initial frame: values {
+  key: "chain.count"
+  value {
+    number_value: 1.0
+  }
+}
+values {
+  key: "particle.count"
+  value {
+    number_value: 51.0
+  }
+}
+values {
+  key: "residue.count"
+  value {
+    number_value: 23.0
+  }
+}
+arrays {
+  key: "bond.pairs"
+  value {
+    index_values {
+      values: 0
+      values: 1
+      values: 2
+      values: 3
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 11
+      values: 12
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 16
+      values: 17
+      values: 18
+      values: 19
+      values: 20
+      values: 21
+      values: 22
+      values: 23
+      values: 22
+      values: 24
+      values: 25
+      values: 26
+      values: 26
+      values: 27
+      values: 28
+      values: 29
+      values: 30
+      values: 31
+      values: 30
+      values: 32
+      values: 33
+      values: 34
+      values: 35
+      values: 36
+      values: 36
+      values: 37
+      values: 38
+      values: 39
+      values: 40
+      values: 41
+      values: 41
+      values: 42
+      values: 43
+      values: 44
+      values: 43
+      values: 45
+      values: 46
+      values: 47
+      values: 48
+      values: 49
+      values: 49
+      values: 50
+    }
+  }
+}
+arrays {
+  key: "chain.names"
+  value {
+    string_values {
+      values: "SYSTEM"
+    }
+  }
+}
+arrays {
+  key: "particle.elements"
+  value {
+    index_values {
+      values: 9
+      values: 3
+      values: 8
+      values: 14
+      values: 8
+      values: 8
+      values: 6
+      values: 9
+      values: 8
+      values: 9
+      values: 17
+      values: 5
+      values: 17
+      values: 11
+      values: 53
+      values: 11
+      values: 16
+      values: 11
+      values: 8
+      values: 8
+      values: 17
+      values: 17
+      values: 29
+      values: 53
+      values: 53
+      values: 17
+      values: 12
+      values: 17
+      values: 1
+      values: 35
+      values: 8
+      values: 11
+      values: 11
+      values: 12
+      values: 16
+      values: 17
+      values: 6
+      values: 17
+      values: 30
+      values: 8
+      values: 35
+      values: 30
+      values: 35
+      values: 26
+      values: 53
+      values: 53
+      values: 29
+      values: 8
+      values: 1
+      values: 17
+      values: 1
+    }
+  }
+}
+arrays {
+  key: "particle.names"
+  value {
+    string_values {
+      values: "F"
+      values: "LI"
+      values: "O"
+      values: "SI"
+      values: "O"
+      values: "O"
+      values: "CA"
+      values: "F"
+      values: "O"
+      values: "F"
+      values: "CL"
+      values: "BA"
+      values: "CL"
+      values: "NA"
+      values: "I"
+      values: "NA"
+      values: "S"
+      values: "NA"
+      values: "O"
+      values: "O"
+      values: "CL"
+      values: "CL"
+      values: "CU"
+      values: "I"
+      values: "I"
+      values: "CL"
+      values: "MG"
+      values: "CL"
+      values: "H"
+      values: "BR"
+      values: "O"
+      values: "NA"
+      values: "NA"
+      values: "MG"
+      values: "S"
+      values: "CL"
+      values: "CR"
+      values: "CL"
+      values: "ZN"
+      values: "O"
+      values: "BR"
+      values: "ZN"
+      values: "BR"
+      values: "FE"
+      values: "I"
+      values: "I"
+      values: "CU"
+      values: "O"
+      values: "H"
+      values: "CL"
+      values: "H"
+    }
+  }
+}
+arrays {
+  key: "particle.positions"
+  value {
+    float_values {
+      values: 0.7419
+      values: -2.1952999
+      values: 0.0
+      values: 0.48070002
+      values: -2.0639
+      values: 0.0
+      values: 3.1087
+      values: -2.9853
+      values: 0.0
+      values: 2.7610002
+      values: -2.801
+      values: 0.0
+      values: 3.1615999
+      values: -2.5365999
+      values: 0.0
+      values: 1.0656
+      values: -3.0606
+      values: 0.0
+      values: 0.47750002
+      values: -3.1808002
+      values: 0.0
+      values: 1.4502
+      values: -1.6265
+      values: 0.0
+      values: 1.7627001
+      values: -1.447
+      values: 0.0
+      values: 1.3781
+      values: -1.4342
+      values: 0.0
+      values: 2.9292
+      values: -5.0796003
+      values: 0.0
+      values: 2.5077999
+      values: -4.9563003
+      values: 0.0
+      values: 2.8411
+      values: -4.5749
+      values: 0.0
+      values: 0.6778
+      values: -4.8761
+      values: 0.0
+      values: 0.96140003
+      values: -4.8040004
+      values: 0.0
+      values: 3.5381
+      values: -4.107
+      values: 0.0
+      values: 3.7256
+      values: -3.7096002
+      values: 0.0
+      values: 3.2369
+      values: -3.8586
+      values: 0.0
+      values: 3.6022
+      values: -0.3445
+      values: 0.0
+      values: 3.7737
+      values: -0.2404
+      values: 0.0
+      values: 5.5892
+      values: -1.4229001
+      values: 0.0
+      values: 5.7222
+      values: -1.4229001
+      values: 0.0
+      values: 4.687
+      values: -0.7451
+      values: 0.0
+      values: 4.6951003
+      values: -1.0015
+      values: 0.0
+      values: 5.1245
+      values: -0.4375
+      values: 0.0
+      values: 6.4064
+      values: -1.9598
+      values: 0.0
+      values: 6.0411
+      values: -2.2001
+      values: 0.0
+      values: 6.3375
+      values: -2.3636
+      values: 0.0
+      values: 5.328
+      values: -3.2737
+      values: 0.0
+      values: 4.9402003
+      values: -3.3651001
+      values: 0.0
+      values: 5.7094
+      values: -4.6518
+      values: 0.0
+      values: 5.4931
+      values: -4.2993
+      values: 0.0
+      values: 5.2287
+      values: -4.5396
+      values: 0.0
+      values: 6.799
+      values: -3.2978
+      values: 0.0
+      values: 6.8791003
+      values: -3.6936002
+      values: 0.0
+      values: 0.86210006
+      values: -0.9374
+      values: 0.0
+      values: 0.7692
+      values: -0.681
+      values: 0.0
+      values: 1.1425
+      values: -0.53360003
+      values: 0.0
+      values: 3.1247
+      values: -1.4502
+      values: 0.0
+      values: 3.5061002
+      values: -1.4422001
+      values: 0.0
+      values: 6.682
+      values: -1.5031
+      values: 0.0
+      values: 6.8663
+      values: -1.2258
+      values: 0.0
+      values: 6.5747004
+      values: -0.85410005
+      values: 0.0
+      values: 7.9367
+      values: -2.5126
+      values: 0.0
+      values: 7.996
+      values: -2.2033002
+      values: 0.0
+      values: 7.3838997
+      values: -2.5077999
+      values: 0.0
+      values: 7.9399004
+      values: -0.7259
+      values: 0.0
+      values: 8.3854
+      values: -0.59770006
+      values: 0.0
+      values: 1.5591
+      values: -4.1823
+      values: 0.0
+      values: 2.0479
+      values: -3.8137002
+      values: 0.0
+      values: 1.487
+      values: -3.8185003
+      values: 0.0
+    }
+  }
+}
+arrays {
+  key: "particle.residues"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 1
+      values: 1
+      values: 1
+      values: 2
+      values: 2
+      values: 3
+      values: 3
+      values: 3
+      values: 4
+      values: 4
+      values: 4
+      values: 5
+      values: 5
+      values: 6
+      values: 6
+      values: 6
+      values: 7
+      values: 7
+      values: 8
+      values: 8
+      values: 9
+      values: 9
+      values: 9
+      values: 10
+      values: 10
+      values: 10
+      values: 11
+      values: 12
+      values: 13
+      values: 13
+      values: 13
+      values: 14
+      values: 14
+      values: 15
+      values: 15
+      values: 15
+      values: 16
+      values: 16
+      values: 17
+      values: 17
+      values: 17
+      values: 18
+      values: 18
+      values: 18
+      values: 19
+      values: 19
+      values: 20
+      values: 21
+      values: 22
+    }
+  }
+}
+arrays {
+  key: "residue.chains"
+  value {
+    index_values {
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+      values: 0
+    }
+  }
+}
+arrays {
+  key: "residue.ids"
+  value {
+    index_values {
+      values: 1
+      values: 2
+      values: 3
+      values: 4
+      values: 5
+      values: 6
+      values: 7
+      values: 8
+      values: 9
+      values: 10
+      values: 11
+      values: 12
+      values: 1
+      values: 13
+      values: 14
+      values: 15
+      values: 16
+      values: 17
+      values: 18
+      values: 19
+      values: 20
+      values: 2
+      values: 20
+    }
+  }
+}
+arrays {
+  key: "residue.names"
+  value {
+    string_values {
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+      values: "UNL"
+    }
+  }
+}
